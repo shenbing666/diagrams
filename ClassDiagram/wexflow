@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T02:12:57.497Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZiOKztqn5T2oTqbXoTFm" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T02:14:35.776Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ERNgOVTOP8LuWbIamVCz" version="19.0.3" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -11,37 +11,37 @@
           <mxGeometry x="780" y="100" width="150" height="290" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-5" value="Form1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="75" width="310" height="268" as="geometry" />
+          <mxGeometry x="310" y="80" width="320" height="268" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-6" value="+ WexflowWebServiceUri: string&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="26" width="310" height="26" as="geometry" />
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-10" value="+ _wexflowServiceClient: WexflowServiceClient" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="52" width="310" height="26" as="geometry" />
+          <mxGeometry y="52" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-9" value="+ _workflows:  WorkflowInfo[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="78" width="310" height="26" as="geometry" />
+          <mxGeometry y="78" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-14" value="+ _workflowsPerId:  Dictionary&lt;int, WorkflowInfo&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="104" width="310" height="26" as="geometry" />
+          <mxGeometry y="104" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="130" width="310" height="8" as="geometry" />
+          <mxGeometry y="130" width="320" height="8" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-8" value="+ Form1()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="138" width="310" height="26" as="geometry" />
+          <mxGeometry y="138" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MzdTf5yHyQWCzKC7fCsR-13" value="+ buttonStart_Click: void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="164" width="310" height="26" as="geometry" />
+        <mxCell id="MzdTf5yHyQWCzKC7fCsR-13" value="+ buttonStart_Click(object,EventArgs): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
+          <mxGeometry y="164" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MzdTf5yHyQWCzKC7fCsR-16" value="+ buttonPause_Click: void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="190" width="310" height="26" as="geometry" />
+        <mxCell id="MzdTf5yHyQWCzKC7fCsR-16" value="+ buttonPause_Click(object,EventArgs): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
+          <mxGeometry y="190" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MzdTf5yHyQWCzKC7fCsR-17" value="+ buttonResum_Click: void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="216" width="310" height="26" as="geometry" />
+        <mxCell id="MzdTf5yHyQWCzKC7fCsR-17" value="+ buttonResum_Click(object,EventArgs): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
+          <mxGeometry y="216" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MzdTf5yHyQWCzKC7fCsR-18" value="+ buttonStop_Click: void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
-          <mxGeometry y="242" width="310" height="26" as="geometry" />
+        <mxCell id="MzdTf5yHyQWCzKC7fCsR-18" value="+ buttonStop_Click(object,EventArgs): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MzdTf5yHyQWCzKC7fCsR-5">
+          <mxGeometry y="242" width="320" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
