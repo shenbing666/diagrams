@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T02:39:13.336Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FN5C-WJxMGoRIJl0ppyS" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T02:40:11.043Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="b2dmvSzGIZpPTpWNFq5M" version="20.0.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="77e6c97f196da883-5" value="客户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="30" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-15" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+        <mxCell id="77e6c97f196da883-15" value="收到抄送通知" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
           <mxGeometry x="40" y="650" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7T3X_gnIpNBmZ_Kfa7o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="k7T3X_gnIpNBmZ_Kfa7o-1" target="k7T3X_gnIpNBmZ_Kfa7o-5">
