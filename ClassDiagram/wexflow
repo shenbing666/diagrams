@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T05:53:43.926Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zNte17UBeSoj7CNcnAYo" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T00:10:00.800Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="EuS6GFIKx6OyHHXXiy0k" version="20.0.0" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1275" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="MzdTf5yHyQWCzKC7fCsR-39" vertex="1">
           <mxGeometry y="52" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="MzdTf5yHyQWCzKC7fCsR-42" value="+ WexflowWindowsService()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MzdTf5yHyQWCzKC7fCsR-39" vertex="1">
+        <mxCell id="MzdTf5yHyQWCzKC7fCsR-42" value="+ WexflowWindowsService()&#xa;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MzdTf5yHyQWCzKC7fCsR-39" vertex="1">
           <mxGeometry y="60" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MzdTf5yHyQWCzKC7fCsR-48" value="+ OnDebug()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MzdTf5yHyQWCzKC7fCsR-39" vertex="1">
@@ -650,7 +650,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Na0Sw0zz-CzizflI7kHG-16" value="Wexflow.Clients.WindowsService" style="shape=umlFrame;whiteSpace=wrap;html=1;width=200;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="1" vertex="1">
-          <mxGeometry x="640" y="380" width="1570" height="1531" as="geometry" />
+          <mxGeometry x="640" y="380" width="1570" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="NCrgwMRQlLLRjjl6KOSq-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MzdTf5yHyQWCzKC7fCsR-24" target="MzdTf5yHyQWCzKC7fCsR-56">
           <mxGeometry relative="1" as="geometry" />
