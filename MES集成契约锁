@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T02:13:53.616Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Xt2oieJOozumKwy6PQal" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T02:14:24.700Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="bkMmotpTzDtImVQsLjRf" version="20.0.0" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,6 +31,12 @@
           <mxGeometry x="30" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-3" source="77e6c97f196da883-8" target="77e6c97f196da883-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7T3X_gnIpNBmZ_Kfa7o-1" value="生成相关appid" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="30" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7T3X_gnIpNBmZ_Kfa7o-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="k7T3X_gnIpNBmZ_Kfa7o-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="客户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
