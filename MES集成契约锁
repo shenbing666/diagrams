@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T01:55:00.698Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jEutxOaeJCyrHd-3f5il" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T01:59:43.082Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tvwRXLGYJsxwsY0INp1k" version="20.0.1" type="github" pages="2">
   <diagram name="电子签章" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-11" value="导入题库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="80" height="60" as="geometry" />
+          <mxGeometry x="390" y="145" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-14" target="nE16KAWBBBhhHIUCqYsR-21">
           <mxGeometry relative="1" as="geometry" />
@@ -164,20 +164,29 @@
         <mxCell id="nE16KAWBBBhhHIUCqYsR-14" value="搜题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nE16KAWBBBhhHIUCqYsR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-16" target="nE16KAWBBBhhHIUCqYsR-21">
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-16" target="nE16KAWBBBhhHIUCqYsR-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nE16KAWBBBhhHIUCqYsR-16" value="题库列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-16" value="主界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="290" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nE16KAWBBBhhHIUCqYsR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-19" target="nE16KAWBBBhhHIUCqYsR-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-19" target="nE16KAWBBBhhHIUCqYsR-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nE16KAWBBBhhHIUCqYsR-22">
+          <mxGeometry x="-0.1886" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-19" value="导入是否&lt;br&gt;正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="145" width="70" height="70" as="geometry" />
+          <mxGeometry x="510" y="140" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-21" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="60" height="90" as="geometry" />
+          <mxGeometry x="590" y="197" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
