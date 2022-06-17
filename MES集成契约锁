@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T02:12:47.501Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="w458hYPECtlGij1T66bM" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T02:16:05.929Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RHYkSk8px2t4p37_jSUz" version="20.0.1" type="github" pages="2">
   <diagram name="电子签章" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -149,6 +149,9 @@
         <mxCell id="nE16KAWBBBhhHIUCqYsR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-5" target="nE16KAWBBBhhHIUCqYsR-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-5" target="nE16KAWBBBhhHIUCqYsR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-5" value="主界面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="235" width="80" height="60" as="geometry" />
         </mxCell>
@@ -215,6 +218,15 @@
         </mxCell>
         <mxCell id="nE16KAWBBBhhHIUCqYsR-32" value="输入&lt;br&gt;关键字" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="225" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="nE16KAWBBBhhHIUCqYsR-47" target="nE16KAWBBBhhHIUCqYsR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-47" value="摇一摇" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nE16KAWBBBhhHIUCqYsR-49" value="显示答案" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
