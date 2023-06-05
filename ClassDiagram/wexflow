@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T08:06:45.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Op5vTQchW3zastpyDjoI" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-05T08:08:21.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8HmcLvhx-MBU6Qw5RNTL" version="21.3.2" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -776,6 +776,9 @@
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-86" value="工厂经理" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
           <mxGeometry x="70" y="410" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-97" value="各部门经理&lt;br&gt;制定人员" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
+          <mxGeometry x="70" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-5" value="MES" style="swimlane;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="240" width="230" height="570" as="geometry" />
         </mxCell>
@@ -943,9 +946,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1310" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1450" y="600" />
+              <mxPoint x="1300" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-99" value="生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="9SqXmoG2g4hqBdN8J_ox-94">
+          <mxGeometry x="-0.3484" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9SqXmoG2g4hqBdN8J_ox-97" target="9SqXmoG2g4hqBdN8J_ox-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
