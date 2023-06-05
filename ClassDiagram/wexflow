@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T07:47:28.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oDECpMY5J37T0YtIOOEp" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-05T07:53:05.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eD81S--NNma-tvWhaX24" version="21.3.2" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-4" value="各工序生产部门" style="swimlane;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="240" width="230" height="470" as="geometry" />
+          <mxGeometry x="910" y="240" width="240" height="470" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-49" value="生产主管" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
           <mxGeometry x="70" y="250" width="80" height="40" as="geometry" />
@@ -775,6 +775,20 @@
             <mxPoint x="-94" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-84" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9SqXmoG2g4hqBdN8J_ox-4" target="9SqXmoG2g4hqBdN8J_ox-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-85" value="EXCEL导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="9SqXmoG2g4hqBdN8J_ox-84">
+          <mxGeometry x="0.3776" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-5" value="MES" style="swimlane;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="240" width="230" height="470" as="geometry" />
         </mxCell>
@@ -782,22 +796,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-19" value="GPM标准维护" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
-          <mxGeometry x="101" y="50" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="9SqXmoG2g4hqBdN8J_ox-5" source="9SqXmoG2g4hqBdN8J_ox-21" target="9SqXmoG2g4hqBdN8J_ox-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-21" value="排程日期调整" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
-          <mxGeometry x="101" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-22" value="GPM检查表" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
-          <mxGeometry x="101" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="9SqXmoG2g4hqBdN8J_ox-5" source="9SqXmoG2g4hqBdN8J_ox-23" target="9SqXmoG2g4hqBdN8J_ox-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-23" value="系统排程" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
-          <mxGeometry x="101" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-82" value="每周食品安全排查治理报告" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
+          <mxGeometry x="90" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-8" value="&lt;p style=&quot;line-height: 150%; font-size: 15px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;黑体&quot; style=&quot;font-size: 15px;&quot;&gt;食品安全主体责任制&lt;/font&gt; &lt;font face=&quot;黑体&quot; style=&quot;font-size: 15px;&quot;&gt;Mes检查流程&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: 黑体; line-height: 150%; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="210" width="670" height="30" as="geometry" />
@@ -875,7 +892,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="598" />
-              <mxPoint x="1281" y="598" />
+              <mxPoint x="1260" y="598" />
             </Array>
           </mxGeometry>
         </mxCell>
