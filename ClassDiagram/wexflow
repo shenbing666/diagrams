@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T08:08:50.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8F0Hw282pRN8tj_NAw6S" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-05T08:11:22.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vTC7tkoje9dQeYLsgls0" version="21.3.2" type="github" pages="3">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -776,7 +776,7 @@
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-86" value="工厂经理" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
           <mxGeometry x="70" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-97" value="各部门经理&lt;br&gt;制定人员" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-97" value="各部门经理&lt;br&gt;指定人员" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-4">
           <mxGeometry x="70" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-5" value="MES" style="swimlane;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;rounded=0;" vertex="1" parent="1">
@@ -822,9 +822,6 @@
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-92" value="每月食品安全调度会议纪要" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
           <mxGeometry x="60" y="500" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-93" value="GPM整改表" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=10;" vertex="1" parent="9SqXmoG2g4hqBdN8J_ox-5">
-          <mxGeometry x="80" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SqXmoG2g4hqBdN8J_ox-8" value="&lt;p style=&quot;line-height: 150%; font-size: 15px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;黑体&quot; style=&quot;font-size: 15px;&quot;&gt;食品安全主体责任制&lt;/font&gt; &lt;font face=&quot;黑体&quot; style=&quot;font-size: 15px;&quot;&gt;Mes检查流程&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: 黑体; line-height: 150%; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="210" width="670" height="30" as="geometry" />
@@ -942,25 +939,14 @@
             <mxPoint x="-94" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9SqXmoG2g4hqBdN8J_ox-64" target="9SqXmoG2g4hqBdN8J_ox-93">
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9SqXmoG2g4hqBdN8J_ox-97" target="9SqXmoG2g4hqBdN8J_ox-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1300" y="600" />
-            </Array>
+            <mxPoint x="1220" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-99" value="生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="9SqXmoG2g4hqBdN8J_ox-94">
-          <mxGeometry x="-0.3484" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9SqXmoG2g4hqBdN8J_ox-97" target="9SqXmoG2g4hqBdN8J_ox-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9SqXmoG2g4hqBdN8J_ox-100" value="录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="9SqXmoG2g4hqBdN8J_ox-98">
+        <mxCell id="9SqXmoG2g4hqBdN8J_ox-100" value="录入整改信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="9SqXmoG2g4hqBdN8J_ox-98">
           <mxGeometry x="-0.3812" y="1" relative="1" as="geometry">
-            <mxPoint x="-19" y="1" as="offset" />
+            <mxPoint x="60" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
